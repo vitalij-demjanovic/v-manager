@@ -19,7 +19,8 @@ const config = {
         },
         extend: {
             colors: {
-                borderColor: '#EEF2F6'
+                borderColor: '#EEF2F6',
+                primary: '#94A3B8'
             },
             keyframes: {
                 'accordion-down': {
